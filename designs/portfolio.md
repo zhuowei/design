@@ -27,7 +27,7 @@ Medium: Web
   - needs design statement, design process, past design work pages
  - Simple layout: sans-serif font, solid background colors
  - Started with sidebar design - inspiration from Windows Metro style
-  - insert demo here
+  - [prototype](portfolio/oldindex.html)
   - too difficult for beginner in CSS - so step back, reconsider
   - use design to aid engineering
  - Revised to move navigation to top

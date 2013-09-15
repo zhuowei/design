@@ -1,0 +1,35 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: blue;
+}
+
+#sidebar {
+	float: left;
+	color: white;
+	background-color: green;
+	width: 256px;
+	display: block;
+	z-index: 2;
+	height: 100%;
+}
+
+#sidebar a {
+	color: white;
+}
+
+#sidebar a:visited {
+	color: white;
+}
+
+#sidebar a:hover {
+	color: white;
+}
+
+#content {
+	background-color: white;
+	min-height: 400px;
+	width: 100% - 256px;
+	position: relative;
+	left: 0px;
+	margin: 5px 5px 5px 256px;
+}
