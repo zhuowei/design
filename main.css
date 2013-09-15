@@ -57,3 +57,9 @@ a:visited {
 #titlearea h1 {
 	margin: 0;
 }
+
+#footer {
+	margin: 32px 0px 0px 0px;
+	padding: 8px 32px 8px 32px;
+	background-color: #cccccc;
+}
