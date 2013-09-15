@@ -32,9 +32,11 @@ Medium: Web
   - use design to aid engineering
  - Revised to move navigation to top
   - much easier to create
+  - wastes less space since bar scrolls away - see economy
   - reviewed existing pages using this navigation method
    - Android developer help pages use this layout, so examined it to see how they did it
   - Finally, used trial-and-error and documentation (learning model?) to figure out top nav bar
+  - kept code simple - easy to learn for me, and page loads faster
  - finally, write content
   - first, point form to test layout and to get rough sense of what to write
   - will clean up and rewrite using these points later
