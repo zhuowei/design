@@ -17,6 +17,10 @@ a:visited {
 	color: #111111;
 }
 
+blockquote {
+	background-color: #eeeeee;
+}
+
 #navbar-menu {
 	list-style-type: none;
 	display: block;
