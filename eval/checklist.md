@@ -47,4 +47,6 @@ Reviewing the previous reports, I came up with these tasks:
  - Graph axis are labeled
  - All measurements have space between units, e.g. 10 kg
 
+I feel more confident now that I have a checklist: I can see all the potential pitfalls on a single page instead of on the comment pages of multiple previous reports.
+
 Armed with my checklist, I'm ready to begin my lab report now. Wish me luck :)
