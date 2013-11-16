@@ -8,6 +8,8 @@ I often experience products with great design and great engineering - and, of co
 
 I documented some of my experiences with these artifacts here. Expect some praise, some rants, and some suggestions on how the object can be improved.
 
+ - [Checking out checklists](checklist.html)
+
  - [Product Design Team Formation Survey](teamsurvey.html)
 
  - [Chestnut Residence Bagged Lunch Ordering Page](lunch_draft.html) (draft)
