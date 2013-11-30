@@ -50,3 +50,15 @@ Reviewing the previous reports, I came up with these tasks:
 I feel more confident now that I have a checklist: I can see all the potential pitfalls on a single page instead of on the comment pages of multiple previous reports.
 
 Armed with my checklist, I'm ready to begin my lab report now. Wish me luck :)
+
+### Afterword
+
+Whew! That was a long break between writing the top and the bottom.
+
+The first lesson I learned from making checklists is that checklists are not as useful when there are no strict metrics attached. In the first lab report I did with a checklist, I provided diagrams, as specified on my checklist, but did not include any labels, so I was deducted points. This may be a problem with self-made checklists: they may not match the criteria and metrics of the teacher. The instructors of some courses, such as ESC101, release official checklists that specify exactly what is required on assignments, and those may be helpful.
+
+The second lesson I learned is that checklists are reusable. I was able to use the same checklist for a second lab report (which I did well on), and will be using it for a third lab report soon. Thus, the time investment in the checklist can lead to benefits later.
+
+The third lesson I learned is that checklists are great for finding possible improvements. In both lab reports I used the checklist with, I had trouble completing all the sections. However, I walked through the checklist, and looked for items that I _was_ able to accomplish.
+
+Finally, I learned that checklists are not magical. The first lab report I did with the checklist rewarded me with the lowest mark I received on a lab report so far, since the first lab experiment had multiple parts and was difficult to describe. The second lab report I did with the checklist gotten me a better mark. I guess my conclusion is that, while checklists aren't a recipe for success, at least they would make the meal more palatable, by highlighting areas one could work on to improve the result.
