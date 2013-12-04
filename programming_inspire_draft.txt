@@ -11,6 +11,8 @@
     - e.g. Mercator: test by writing the program
    - Problems can be quickly spotted
     - e.g. transparency
+   - Many professional software development companies swear by this principle
+    - GitHub: "bullets are cheap". http://tom.preston-werner.com/2011/03/29/ten-lessons-from-githubs-first-year.html
    - Tried bringing this mentality to Praxis:
     - In the Conceptual design report, prototyping = difficult; took multiple hours to create rough prototype
     - Used Inkscape to draw the parts, and used rotation tool to find best way to rotate panes
