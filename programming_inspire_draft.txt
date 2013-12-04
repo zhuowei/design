@@ -1,0 +1,36 @@
+- Came from a software development background
+- Similar goals to product design: to develop a solution to a problem
+- Nature of the product means different design approaches in some areas
+- but many concepts are the same
+ - Rapid prototyping easy
+   - Jump forward
+   - Is Dfx in some of my programs
+   - e.g. in BlockLauncher, script to build, deploy, launch
+   - easily iterate through designs
+   - May not need to model, can build high-fidelity prototype easily, and prototype can be improved into product
+    - e.g. Mercator: test by writing the program
+   - Problems can be quickly spotted
+    - e.g. transparency
+   - Tried bringing this mentality to Praxis:
+    - In the Conceptual design report, prototyping = difficult; took multiple hours to create rough prototype
+    - Used Inkscape to draw the parts, and used rotation tool to find best way to rotate panes
+   - In future, this could be possible
+    - Nasa http://www.nasa.gov/offices/oce/appel/ask/issues/42/42s_rapid_prototyping_analog_testing.html
+    - Rise of 3-D printing
+ - There is a "Right" answer
+   - Some software tasks have one right answer
+    - e.g. look through the Android source looking for layers that software can draw to
+   - Other tasks require thinking
+    - e.g. how to structure program - which should be split up into Activities, for example, or how patching should be done
+   - Similar to design
+    - two types of arguments
+    - Can find facts (one right answer, e.g. melting point) but also some that needs judgement (e.g. design so dishwasher safe)
+     - Used both to select material for the ketchup bottle cap in the Detailed design report
+ - Reference designs are available
+   - When building PocketInvEditor, used existing software and modeled interface upon them
+   - Looked at source of Android's built-in applications to see how they accomplished tasks
+   - In Detailed Design Report, I used this approach
+    - Looked at reference bottle caps by researching recyclable pop bottle caps
+ - Worked alone
+   - apps were mainly developed alone
+   - In design, often work in teams
