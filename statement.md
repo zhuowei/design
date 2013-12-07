@@ -13,4 +13,4 @@ I consider design and engineering as two facets of one concept: to make decision
  - elegance: aethestically pleasing
  - safety: protection
  - resiliance: long-lasting
-
+ - time-to-market: rapid development of solutions
