@@ -44,6 +44,7 @@ permalink: /designs/bird_anim.html
   - Ctiteria: less is better
 
 - Functional decomposition/modularity
+
 1. Download installer
 2. Launch installer
 3. downloads remaining files
@@ -51,6 +52,7 @@ permalink: /designs/bird_anim.html
 5. setting a timer
 6. increasing volume
 7. playing video
+
 - Grouped related functionality
 - First two parts are started by tester, using a simple system() call - only 6 lines changed, minimized detection by someone reading source
 - The installer does 3 and 4, since it has to start the next payload anyways
