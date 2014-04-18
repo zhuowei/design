@@ -67,3 +67,18 @@ blockquote {
 	padding: 8px 32px 8px 32px;
 	background-color: #cccccc;
 }
+
+.design-thumb {
+	float: right;
+	width: 128px;
+	height: 128px;
+	margin: 2px;
+	padding: 4px;
+	background-color: #424242;
+}
+
+.thumb-clear {
+	clear: both;
+	visibility: none;
+	height: 0;
+}
