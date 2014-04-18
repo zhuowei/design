@@ -1,3 +1,4 @@
 relative_permalinks: false
 repository: https://github.com/zhuowei/design
 baseurl: /design/
+markdown: redcarpet
